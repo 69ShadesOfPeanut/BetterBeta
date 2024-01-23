@@ -5,6 +5,10 @@ Added:
 - Added villager config
 - Added Global Packs
 - Added Bleached
+- Added Modpack Update Checker
 Changed:
 - Removed villager trades
+- Made bleached programmer art texture pack on by default
+- Turned on the "hear yourself" option for reverb via voice chat
+- Cows and Chickens now drop food
 - Updated mods
