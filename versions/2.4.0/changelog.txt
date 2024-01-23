@@ -2,6 +2,7 @@
 
 
 Added:
+
 - Added Enchanting System Rework
 - Added villager config
 - Added Global Packs
@@ -9,6 +10,7 @@ Added:
 - Added Modpack Update Checker
 
 Changed:
+
 - Removed villager trades
 - Made bleached programmer art texture pack on by default
 - Turned on the "hear yourself" option for reverb via voice chat
