@@ -8,6 +8,10 @@ Added:
 - Added Global Packs
 - Added Bleached
 - Added Modpack Update Checker
+- Added No Repair Cost
+- Added Borderless Mining
+- Added Reese's Sodium Options
+- Added Sodium Extra
 
 Changed:
 
