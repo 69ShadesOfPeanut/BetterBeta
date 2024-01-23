@@ -1,11 +1,13 @@
 [Enchantment Rework Update]
 
+
 Added:
 - Added Enchanting System Rework
 - Added villager config
 - Added Global Packs
 - Added Bleached
 - Added Modpack Update Checker
+
 Changed:
 - Removed villager trades
 - Made bleached programmer art texture pack on by default
