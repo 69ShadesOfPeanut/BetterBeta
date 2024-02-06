@@ -1,0 +1,16 @@
+Added:
+
+- Added Rail Destinations
+- Added Wandering Collector
+- Added Anvil Repairing
+- Added Anvil Fix Reborn
+- Added Nemo's Blooming Blossom
+- Added Mending Over Time
+
+Changed:
+
+- Reworked Wandering Trader Trades
+- Made bows break
+- Pufferfish now stack up to 8
+- Offhand key set to J by default
+- Updated mods
