@@ -1,0 +1,32 @@
+Added:
+
+- Added NiftyCarts
+- Added AdvancementJS
+- Added Polytone
+- Added Indium
+- Added Chunks fade in
+- Added MoreJS
+- Added Resource Pack Overrides
+- Added Server Country Flags
+- Added More Banner Features
+- Added Hellion's Sniffer+
+
+Changed:
+
+- Made chests make opening sound
+- Evil and Rogue eye now sold by wandering trader
+- Disabled minecart speedometer
+- Advancements tab for restricted portals no longer shows the required item for the end
+- Added /book
+- Can now smelt down some items / blocks to get a extremely small amount of resources back
+- Made the warden invulnerable
+- Villager trades are now removed via KubeJS instead of datapack as to remove trades from pre-existing villagers
+- Show inventory button now unbound by default
+- Can no longer disable required resource packs or change their position (without the use of changing configs or files)
+- Resource packs are now enabled when updating (yippppeee this was a massive modpack development issue)
+- Disabled some renewable blocks / items from Sniffer+ (as they didnt have programmer art and some textures / models were bugged)
+- Game now uses beta loading screen
+- First join message telling players about the wiki
+- Added /wiki
+- Updated golden days
+- Updated mods
