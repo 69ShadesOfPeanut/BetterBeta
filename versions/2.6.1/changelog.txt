@@ -1,0 +1,15 @@
+Added:
+
+- Aded No Mob Farms
+
+Changed:
+
+- Show time while sleeping disabled
+- Disabled old item holding
+- Enabled drawing back the bow
+- Made offhand slot appear at the bottom left of your inventory
+- Made default cloud height the same as beta
+- Can now punch to activate buttons and levers
+- Seasons mod no longer announces about seasons extra on first load
+- Made horses ever so slightly faster when on a cart (from -0.65 to 0.60)
+- Updated mods

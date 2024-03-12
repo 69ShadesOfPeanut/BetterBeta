@@ -24,6 +24,17 @@
                     "curseforge": "https://www.curseforge.com/minecraft/modpacks/better-beta/files/5125148"
                 }
             }
+        },
+        {
+            "id": "2.6.1",
+            "releasedAt": 1710201780,
+            "promotions":
+            {
+                "downloads":
+                {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/better-beta/files/5125148"
+                }
+            }
         }
     ]
 }
