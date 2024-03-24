@@ -1,0 +1,30 @@
+Update is 3.0.0 as it changes how the end is generated, It is recommended to reset the end on your world / server before loading.
+
+# The elytra rework update
+
+Added:
+
+- Added Aileron
+- Added LootJS
+- Added No Telemetry
+- Added Abuseless Hardcore
+- Added Spyglass Improvements
+- Added Useful Spyglass
+- Added Clean Tooltips
+- Added IndyPets
+- Added Conduits Prevent Drowned
+- Added Elytra Trims
+- Added recipes for modded enchants
+
+Removed:
+
+- Removed Anvil Fix Reborn
+
+Changed:
+
+- Reenabled the elytra due to the elytra rework
+- Removed elytra from end ships
+- Elytra is now craftable
+- Ender Dragon now drops dragon scales which is required for elytra (credit to the DragonLoot mod as its where the texture came from)
+- Changed jade overlay toggle to up arrow
+- Updated mods
