@@ -1,0 +1,16 @@
+Added:
+
+- Added Exposure
+- Added Savage Ender Dragon
+- Added Armor Statues
+
+Removed:
+
+- Removed resource pack override
+
+Changed:
+
+- Reenabled jade by default
+- Stopped snowy biomes from melting in summer
+- Added recipe for precision enchant
+- Updated mods
