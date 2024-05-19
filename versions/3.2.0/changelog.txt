@@ -12,7 +12,6 @@ Added:
 - Added Scholar
 - Added Rare Ice
 - Added Copper Hopper
-- Added Way Much Faster Oxidize Reborn
 - Added Cursery
 - Added Sneaky Curses
 - Added Infinity Rework
