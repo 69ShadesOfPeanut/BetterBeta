@@ -1,0 +1,27 @@
+The curse update
+
+Curses:
+
+- Curses have a chance of applying when enchanting an item
+- The chance of a curse increases with each enchantment
+- You don't know what curse you got but you will know it has a curse
+- Each curse increases max enchants by 1 up to a max of 2 additional enchants
+
+Added:
+
+- Added Scholar
+- Added Rare Ice
+- Added Copper Hopper
+- Added Way Much Faster Oxidize Reborn
+- Added Cursery
+- Added Sneaky Curses
+- Added Infinity Rework
+
+Changed:
+
+- Using bonemeal on flowers now gives you more of the same type
+- Drastically increased dragon scales dropped
+- Changed infinity recipe to account for 3 levels
+- Updated Golden Days
+- Updated mods
+- Updated fabric
