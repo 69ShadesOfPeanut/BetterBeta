@@ -83,6 +83,18 @@
                     "curseforge": "https://www.curseforge.com/minecraft/modpacks/better-beta/files/5355483"
                 }
             }
+        },
+        {
+            "id": "3.2.1",
+            "releasedAt": 1718856038385,
+            "updateType": "minor",
+            "promotions":
+            {
+                "downloads":
+                {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/better-beta/files/5447634"
+                }
+            }
         }
     ]
 }

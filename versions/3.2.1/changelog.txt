@@ -1,0 +1,17 @@
+Added:
+- Added Mod Menu
+- Added Chalk
+- Added Chalk Colorful Addon
+- Added *a new adventure waiting to be discovered*
+
+Changed:
+
+- Enabled Way Much Faster Oxidize Reborn
+- Lowered chance of rare ice from 3 to 1
+- Turned off update notifications for xaero's minimap and world map
+- Changed frequency of mending repairs from 40 seconds to 30 seconds
+- Wandering traders now ALWAYS have a trade that's either an emerald trade or an eye trade
+- Wandering trader trades modified
+- You can now craft wandering trader spawn eggs
+- Changed version text to "Minecraft Beta 1.7.3"
+- Updated mods
