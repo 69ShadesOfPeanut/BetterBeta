@@ -1,0 +1,12 @@
+Added:
+
+- Added PerPlayerWanderingTraders
+
+Changed:
+
+- Enabled totems of undying
+- Totems of undying now ONLY spawn in woodland mansions
+- Removed rogue eye from wandering trader trades
+- Removed wandering trader egg recipe
+- Sweeping edge is now hidden from enchanting table
+- Updated mods
