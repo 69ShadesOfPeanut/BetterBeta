@@ -1,0 +1,11 @@
+Removed:
+
+- Removed Classic Sword Blocking
+- Removed Sleep Tight
+- Removed Bleached
+
+Changed:
+
+- HUGE Nostalgic Tweaks update
+- Updated Golden Days
+- Updated mods
