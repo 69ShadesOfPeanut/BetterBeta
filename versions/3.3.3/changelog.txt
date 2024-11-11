@@ -1,0 +1,21 @@
+Added:
+
+- Added The Afterdark
+- Added EMI
+- Added EMI Enchanting
+- Added EMI Loot
+- Added Disenchanter
+- Added Go Fish
+
+Removed:
+
+- Removed REI
+- Removed Zoomify
+
+Changed:
+
+- Changed spyglass use key to C
+- Config changes
+- Added a custom enchantment recipe for deepfry (go fish enchantment)
+- Updated mods
+- Updated fabric

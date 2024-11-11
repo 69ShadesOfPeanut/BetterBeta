@@ -1,0 +1,9 @@
+Added:
+
+- Added Lootr
+- Added Nostalgic Chests
+
+Changed:
+
+- Added lootr nostalgic chest to resource pack load order
+- Updated mods
