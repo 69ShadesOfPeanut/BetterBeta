@@ -1,0 +1,9 @@
+Removed:
+
+- Removed distant friends
+
+Changed:
+
+- Can no longer put items into ice
+- Updated mods
+- Updated fabric
