@@ -1,0 +1,20 @@
+
+Added:
+
+- Added Harvest Enchantment
+- Added Iris Shaders
+- Added Shader Toggle
+- Added shaders that fit the theme of beta
+
+Removed:
+
+- Removed High-Speed Rail
+
+Changed:
+
+- Lowered villager iron golem memory to ~4 minutes instead of ~9
+- Disabled NiftyCarts rendering flowers (would softlock your game)
+- Made modded fish unstackable
+- Buffed horse pull speed on carts
+- Fixed bug to do with REDACTED
+- Updated mods
